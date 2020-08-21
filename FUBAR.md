@@ -5,7 +5,9 @@ conflict
 
 beautiful-bears
 Keith was here.
-Keith was here... The sequal
+Keith was here... The sequal!
+
+Beautiful Bears are Deadly!
 
 Sara was here!
 
