@@ -1,3 +1,3 @@
 # mc-exercise
 
-### LETS MAKE PROBLEMS FOR EACHOTEHR!!!!!!!
+### LETS MAKE PROBLEMS FOR EACHOTEHR!!!!!!!!!
